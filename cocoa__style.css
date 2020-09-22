@@ -1,0 +1,14 @@
+.status-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.status-bar__column{
+    padding: 3px;
+}
+.status-bar__column > span{
+    margin: 3px;
+}
+.status-bar__column > i {
+    margin: 3px;
+}
