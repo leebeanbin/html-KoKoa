@@ -33,7 +33,7 @@ body{
     padding: 0px 30px;
 
 }
-input{
+#login-form input{
     border: none;
     border-bottom: 1px solid gray;
     padding: 10px;
