@@ -1,0 +1,14 @@
+.cocoa_warn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    padding: 15px 20px ;
+    margin: 0px 15px;
+}
+.cocoa_warn div {
+    margin: 0px 10px 0px 10px;
+}
+.cocoa_warn i {
+    opacity: 0.3;
+}
