@@ -47,6 +47,7 @@ body{
 
 input : focus{
     outline: none;
+    border-color: rgba(0,0,0,0.4);
 }
 
 input:nth-child(3){
