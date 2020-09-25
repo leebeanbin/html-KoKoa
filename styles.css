@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Ubuntu&display=swap');
+@import 'reset.css';
+@import 'status_bar.css';
+@import 'variables.css';
+
+    /* Components */
+@import "components/status_bar.css";
+
+    /* Screen */
+@import "screens/login_form.css";
+
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: whitesmoke;
+ }
+
+
+

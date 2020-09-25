@@ -1,0 +1,20 @@
+.nav{
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    padding: 20px 40px;
+    background-color: #f9f9fa;
+    border-top: 1px solid rgba(0,0,0,0.2);
+    box-sizing: border-box;
+}
+.nav__lists{
+    display: flex;
+    justify-content: space-between;
+}
+.nav__link{
+    color: #2e363e;
+}
+/* border-box */
+/* 원래 css는 padding 값과 크기의 값이 있는 상태를 유지하려고 하면 
+그 크기를 padding의 크기만큼 늘려버리는데 border-box는 그러한 현상을
+막아주고 사이즈가 커지는 것을 막아준다. */
